@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Mlesh21/Mlesh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — начинающий аналитик данных, увлечённый Python, SQL, A/B тестированием и визуализацией данных.
 
-Here are some ideas to get you started:
+🔭 Сейчас работаю над проектами по анализу розничных продаж и финансовых данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Активно изучаю A/B-тестирование, Python и Power BI.
+
+📫 Связаться со мной можно по почте: wow123443211@yandex.ru
+
+Активно ищу свою первую работу/стажировку!
+
+---
+
+## Проекты
+
+- [Анализ продаж в розничной сети](https://github.com/Mlesh21/retail_sales_analysis) — сегментация клиентов, A/B-тесты, Power BI
+- [Анализ доходности акций](https://github.com/Mlesh21/stock_analysis_project) — финансовый анализ, волатильность, Python
+
+---
+
+Спасибо, что заглянули! 🚀
