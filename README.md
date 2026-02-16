@@ -16,6 +16,7 @@
 
 - [Анализ продаж в розничной сети](https://github.com/Mlesh21/retail_sales_analysis) — сегментация клиентов, A/B-тесты, Power BI
 - [Анализ доходности акций](https://github.com/Mlesh21/stock_analysis_project) — финансовый анализ, волатильность, Python
+- [Анализ принципов проверки дубликатов датасета Авито](https://github.com/Mlesh21/avito-eda-matching) - анализ данных матчинга объявлений на Avito
 
 ---
 
