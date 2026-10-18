@@ -20,11 +20,11 @@
   > *Сегментация клиентов (RFM), анализ чеков, подготовка дашборда.*  
   > **Стек:** SQL, Power BI, Pandas.
 
-* 📈 **[Анализ доходности акций](https://github.com/Mlesh21/...ссылка...)**
+* 📈 **[Анализ доходности акций](https://github.com/Mlesh21/stock_analysis_project)**
   > *Финансовый анализ, оценка волатильности и расчет доходности портфеля.*  
   > **Стек:** Python, yfinance, Seaborn.
 
-* 🔍 **[Поиск дубликатов датасета Avito](https://github.com/Mlesh21/...ссылка...)**
+* 🔍 **[Поиск дубликатов датасета Avito](https://github.com/Mlesh21/avito-eda-matching)**
   > *Анализ данных матчинга объявлений и текстовых признаков.*  
   > **Стек:** Python, Pandas, Parquet.
 
